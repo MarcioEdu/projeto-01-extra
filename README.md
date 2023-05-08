@@ -20,7 +20,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
 - Git e Github
 - Figma
 
